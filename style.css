@@ -28,3 +28,35 @@ button {
 }
 
 /* sem přijdou tvoje styly */
+
+.modal {
+  position: relative;
+  left: 25%;
+}
+
+.exit {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.ok {
+  position: absolute;
+  bottom: 0;
+  left: 45%;
+}
+
+.box-napoveda {
+  width: 50vw;
+  border: 1px solid #b4eafb;
+  padding: 10px;
+  background-color: aquamarine;
+  border-radius: 5px;
+  position: sticky;
+  bottom: 0;
+  left: 25%;
+}
+
+.main-text {
+  margin: 30px;
+}
