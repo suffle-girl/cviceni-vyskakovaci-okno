@@ -52,6 +52,7 @@ button {
   padding: 10px;
   background-color: aquamarine;
   border-radius: 5px;
+  text-align: center;
   position: sticky;
   bottom: 0;
   left: 25%;
